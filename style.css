@@ -1,0 +1,142 @@
+.bg-color{
+background-color: #F0FFF0;
+height: 600px;
+}
+.grap{
+    padding: 20px;
+}
+.top-logo{
+    width: 200px;
+}
+.text{
+    font-size: 16px;
+}
+.margin-top{
+    margin-bottom: 45px;
+}
+.sign-button{
+    border: 1px solid #21b573;
+    background-color: #21b573;
+    border-radius: 50px;
+    width: 104px;
+    height: 43px;
+    color: white;
+    position: absolute;
+}
+.paint1{
+    color: #FD511A;
+}
+.paint{
+    color: #21b573;
+}
+.write-size{
+    font-size: small;
+}
+.started{
+    border: 1px solid #21b573;
+    background-color: #21b573;
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    color: white; 
+     
+}
+.width img{
+    width: 80px;
+}
+.card-deck .topic-color{
+    background-color: #F8FFFB;
+    border: hidden;
+    margin: auto;
+    padding: 20px;
+}
+.topic-color:hover{
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+border: hidden;
+}
+.online-area{
+    padding: 25px;
+    height: px;
+}
+.topic-color p{
+font-size: 3px;
+}
+#personal{
+    width: 65px;
+}
+
+.mordern-aria{
+    padding: 30px;
+}
+.mordern-picture{
+    padding: 20px;
+}
+.align-items-center{
+    text-align: center;
+    font-weight: bold;
+    color: #413960;
+}
+.Designation{
+    font-size: 24px;
+}
+.mordern-font{
+    font-size: 8px;
+}
+.icon{
+    width: 20px;
+    margin-left: -25px;
+    
+}
+.perfect-font{
+
+    font-size: 2px;
+    margin-top: 40px;
+}
+.icon-1{
+    width: 20px;
+    margin-left: -25px;
+    margin-top: 8px;
+    margin-left: 10px; 
+}
+.bold{
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+    margin-top: 50px;
+}
+.img-fluid1{
+    width: 80px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.advice{
+    margin-top: 80px;
+    color: #000000;
+    font-size: 5px;
+    margin-left: -150px;
+}
+.advice-1{
+    color: #000000;
+    font-size: 5px;
+    margin-left: -150px;
+    margin-top: -30px; 
+}
+.paragraph{
+    font-size: 5px;
+}
+.graphic-design{
+    margin-top: 130px;
+    padding: 35px 10px;
+}
+.graphic-design h5{
+    font-size: 30px;
+}
+.align-items-center-1{
+    text-align: center;
+}
+.big-hight{
+    height: 500px;
+    margin-top: 30px;
+}
